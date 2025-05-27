@@ -1,5 +1,5 @@
 # ZungaBunga Studio´s
-## Estúdio Brasileiro 🇧🇷
+## Estúdio Brasileiro 🤜👊🤛
 
 # Time de Desevolvimento:
 <ul> 
