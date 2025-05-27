@@ -15,7 +15,7 @@
 </ul>
 
 # Sobre:
-<p>Criação de um jogo de Battlegrounds (Luta e Ação). Baseado em Strongest Battlegrounds & Jujutsu Kaisen.</p>
+<p>Criação de um jogo de Battlegrounds (Luta e Ação). Baseado em Strongest Battlegrounds & Jujutsu Shenaningas.</p>
 <ul>
     <li>Animação (Theo Kobel)</li>
     <li>Ataques (Arthur Dev)</li>
